@@ -1,17 +1,11 @@
-# BookVerse
+## lo que intente practicar en esta intrega, y espero no pasarme :)
 
-A new Flutter project.
+###  1. Arquitectura de Datos
 
-## Getting Started
+### 2. Gestión de Estado Reactiva y Persistencia Local creando FavoritesService
 
-This project is a starting point for a Flutter application.
+### 3. Sistema de Diseño (Design System) y UI Semántica usando Light/Dark Mode
 
-A few resources to get you started if this is your first Flutter project:
+### 4. Optimización de UI/UX y Patrones de Descubrimiento
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 5. Escalabilidad y Algoritmos de Descubrimiento

@@ -1,5 +1,5 @@
 name: bookverse
-description: "A new Flutter project."
+description: "Catàleg de llibres BookVerse."
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -9,7 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  google_fonts: ^9.0.0
+  google_fonts: ^6.3.3
+  provider: ^6.1.2
+  shared_preferences: ^2.3.3
 
 dev_dependencies:
   flutter_lints: ^6.0.0
@@ -17,5 +19,4 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
-
   uses-material-design: true
